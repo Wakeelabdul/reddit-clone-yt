@@ -1,6 +1,7 @@
 project blog 
 
 https://trainwithshubham.hashnode.dev/
+https://youtu.be/9tl0A_rwgu4?si=aY_dG_8XWw2XHXEA
 
 In docker file, chnages are RUN npm install --force
 
